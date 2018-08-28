@@ -1,21 +1,9 @@
 body {
     margin: 60px auto;
     width: 70%;
-    /*background-color: #FFF0F5;*/
-    /* Background Gradient for Monochromatic Colors */
-    .gradient4
-    {
-        background-color: #FFFFFF;
-        /* For WebKit (Safari, Chrome, etc) */
-        background: #FFFFFF -webkit-gradient(linear, left top, left bottom, from(#D9ABBB), to(#FFFFFF)) no-repeat;
-        /* Mozilla,Firefox/Gecko */
-        background: #FFFFFF -moz-linear-gradient(top, #D9ABBB, #FFFFFF) no-repeat;
-        /* IE 5.5 - 7 */
-        filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9ABBB, endColorstr=#FFFFFF) no-repeat;
-        /* IE 8 */
-        -ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr=#D9ABBB, endColorstr=#D9ABBB)" no-repeat;
-    }
+    background-color: #FFF0F5;
 }
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -35,6 +23,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
+    font-color: #012C32;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
