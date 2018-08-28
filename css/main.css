@@ -21,9 +21,11 @@ a {
 a:hover {
     text-decoration: underline;
 }
+title {
+    font-color: #012C32;
+}
 h1 {
     font-size: 3em;
-    font-color: #012C32;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
