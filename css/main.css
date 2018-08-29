@@ -2,8 +2,8 @@ body {
     margin: 60px auto;
     width: 70%;
     /*background-color: #F3D6E4;*/
-    /*height: 500px;
-    background-color: #833ab4; /* For browsers that do not support gradients */
+    /*height: 500px;*/
+    background-color: #833ab4; /* For browsers that do not support gradients*/
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-image: linear-gradient(to right,#E8CBC0, #636FA4);		  
