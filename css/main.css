@@ -10,7 +10,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: 	#FFFAF0;
+    color: #FFFAF0;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -28,7 +28,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    color: #012C32;
+    color: #FFFAF0;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
