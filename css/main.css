@@ -1,8 +1,8 @@
 body {
     margin: 60px auto;
     width: 70%;
-    /*background-color: #F3D6E4;*/
-    background-image: linear-gradient(to bottom right, #833ab4,  #fd1d1d, #fcb045);
+    background-color: #F3D6E4;
+    /*background-image: linear-gradient(to bottom right, #833ab4,  #fd1d1d, #fcb045);*/
 }
 /*#grad {
   background-image: linear-gradient(to bottom right, #833ab4,  #fd1d1d, #fcb045);
