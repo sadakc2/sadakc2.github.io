@@ -10,7 +10,7 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    font-color:'white';
+    color: 	#FFFAF0;
     padding: 0px;
     list-style: none;
     font-weight: bold;
