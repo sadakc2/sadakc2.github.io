@@ -5,14 +5,15 @@
 		<!-- link to main stylesheet -->
 		<link rel="stylesheet" type="text/css" href="/css/main.css">
 	<style>
-		#grad1 {
-   			height: 500px;
-    			background-color: #833ab4; /* For browsers that do not support gradients */
-			background-image: linear-gradient(#833ab4, #fd1d1d, #fcb045); /* Standard syntax (must be last) */
-			}
+		#grad {
+			height: 500px;
+			background-color: #833ab4; /* For browsers that do not support gradients */
+ 			background-image: radial-gradient(circle, #833ab4, #fd1d1d, #fcb045);
+		      }
 	</style>
 	</head>
 	<body>
+		<div id="grad" style="text-align:center;"></div><br>
 		<nav>
     		<ul>
         		<li><a href="/">Home</a></li>
