@@ -6,7 +6,7 @@ body {
     background-color: #833ab4; /* For browsers that do not support gradients*/
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-image: linear-gradient(to right,#E8CBC0, #636FA4);		  
+    background-image: linear-gradient(to right,#355C7D, #6C5B7B, #C06C84);		  
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
