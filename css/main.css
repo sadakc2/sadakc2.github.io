@@ -1,8 +1,6 @@
 body {
     margin: 60px auto;
     width: 70%;
-    /*background-color: #F3D6E4;*/
-    /*height: 500px;*/
     background-color: #833ab4; /* For browsers that do not support gradients*/
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -22,7 +20,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #FFFAF0;
+    color: #DCDCDC;
 }
 a:hover {
     text-decoration: underline;
@@ -35,7 +33,7 @@ h1 {
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #DCDCDC;
 }
 footer {
     border-top: 1px solid #d5d5d5;
