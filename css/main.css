@@ -15,7 +15,7 @@ img {
     padding: 5px;
 }
 nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Arial';
     font-size: 1.3em;
     color: #FFFAF0;
     padding: 0px;
@@ -37,13 +37,13 @@ a:hover {
 h1 {
     font-size: 3em;
     color: #FFFAF0;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Arial';
     text-align: center;
 }
 h2 {
     font-size: 2em;
     color: #FFFAF0;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family:'Arial';
     text-align: center;
 }
 p {
