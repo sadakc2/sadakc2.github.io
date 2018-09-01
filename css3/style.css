@@ -45,7 +45,7 @@ body {
     margin-right: auto;
     
     /* Text styles */
-    color: #2F4F4F;
+    color: whitesmoke;
     text-decoration: none;
     font-size: 1.5em;
     
@@ -75,20 +75,20 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    color: #DCDCDC;
+    color: whitesmoke;
     font-family:'Arial';
     text-align: center;
 }
 h2 {
     font-size: 2em;
-    color: #FFFAF0;
+    color: whitesmoke;
     font-family:'Arial';
     text-align: center;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #DCDCDC;
+    color: whitesmoke;
     text-align: center;
 }
 footer {
