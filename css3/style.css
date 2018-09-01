@@ -53,3 +53,54 @@ body {
     border: 3px solid whitesmoke;
     border-radius: 20px;
 }
+nav ul, footer ul {
+    font-family:'Arial';
+    font-size: 1.3em;
+    color: #FFFAF0;
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+    text-align: center;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #DCDCDC;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    color: #DCDCDC;
+    font-family:'Arial';
+    text-align: center;
+}
+h2 {
+    font-size: 2em;
+    color: #FFFAF0;
+    font-family:'Arial';
+    text-align: center;
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #DCDCDC;
+    text-align: center;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
