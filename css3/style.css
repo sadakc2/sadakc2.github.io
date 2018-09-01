@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: sans-serif;
-    background-color: #686868;
+    background-color: #F5F5F5;
 }
 .hero {
     /* Sizing */
@@ -43,11 +43,11 @@ body {
     margin-right: auto;
     
     /* Text styles */
-    color: black;
+    color: whitesmoke;
     text-decoration: none;
     font-size: 1.5em;
     
     /* Border styles */
-    border: 3px solid black;
+    border: 3px solid whitesmoke;
     border-radius: 20px;
 }
