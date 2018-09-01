@@ -45,12 +45,12 @@ body {
     margin-right: auto;
     
     /* Text styles */
-    color: whitesmoke;
-    text-decoration: none;
+    color: black;
+    text-decoration: underline;
     font-size: 1.5em;
     
     /* Border styles */
-    border: 3px solid whitesmoke;
+    border: 3px solid #2F4F4F;
     border-radius: 20px;
 }
 nav ul, footer ul {
