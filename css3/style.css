@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: sans-serif;
-    background-color: #F5F5F5;
+    background-color: #C0C0C0;
 }
 .hero {
     /* Sizing */
@@ -15,6 +15,7 @@ body {
     
     /* Text styles */
     text-align: center;
+    color: #C0C0C0;
     
     /* Background styles */
     background-image: url('../sadakc2.github.io/pictures/banffsnow.JPG');
@@ -26,7 +27,7 @@ body {
 .hero h1 {
     /* Text styles */
     font-size: 5em;
-    color: whitesmoke;
+    color: #C0C0C0;
     
     /* Margins */
     margin-top: 0;
@@ -44,7 +45,7 @@ body {
     margin-right: auto;
     
     /* Text styles */
-    color: whitesmoke;
+    color: #C0C0C0;
     text-decoration: none;
     font-size: 1.5em;
     
