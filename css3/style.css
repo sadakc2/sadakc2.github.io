@@ -26,6 +26,7 @@ body {
 .hero h1 {
     /* Text styles */
     font-size: 5em;
+    color: whitesmoke;
     
     /* Margins */
     margin-top: 0;
