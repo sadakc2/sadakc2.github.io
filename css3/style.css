@@ -56,7 +56,7 @@ body {
 nav ul, footer ul {
     font-family:'Arial';
     font-size: 1.3em;
-    color: #FFFAF0;
+    color: #2F4F4F;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -68,27 +68,27 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #DCDCDC;
+    color: #2F4F4F;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    color: whitesmoke;
+    color: #2F4F4F;
     font-family:'Arial';
     text-align: center;
 }
 h2 {
     font-size: 2em;
-    color: whitesmoke;
+    color: #2F4F4F;
     font-family:'Arial';
     text-align: center;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: whitesmoke;
+    color: #2F4F4F;
     text-align: center;
 }
 footer {
