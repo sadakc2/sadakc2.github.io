@@ -126,6 +126,10 @@ nav ul, footer ul {
 .img-zoom img:hover {
   transform: scale(1.21);
 }
+.inline {
+   display:inline-block;
+   margin-right:5px;
+}
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
