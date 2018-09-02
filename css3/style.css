@@ -35,7 +35,7 @@ body {
 }
 .hero .btn {
     /* Positioning and sizing */
-    display: block;
+    display: inline-block;
     width: 200px;
     
     /* Padding and margins */
@@ -85,7 +85,7 @@ body {
 }
 .hero2 .btn {
     /* Positioning and sizing */
-    display: block;
+    display: inline-block;
     width: 200px;
     
     /* Padding and margins */
