@@ -113,7 +113,7 @@ nav ul, footer ul {
     text-align: center;
 }
 .img-zoom {
-  display: block;
+  display: inline;
   position: relative;
   overflow: hidden;
 }
