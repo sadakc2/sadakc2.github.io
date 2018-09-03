@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>About Me</title>
+        <link rel="stylesheet" href="css3/style.css">
+    </head>
+
+    <body>
+
+        <main>
+		<h2>NYC pt. 1</h2>
+		<p></p>
+
+<div class="responsive">
+  <div class=" img-zoom">
+      <img src="../sadakc2.github.io/pictures/funnybanff.JPG" alt="Forest" width="100%" height="300">
+    <div class="desc">Sulpher Mountain</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class=" img-zoom"">
+      <img src="../sadakc2.github.io/pictures/memomrachel1.JPG" alt="Mountains" width="100%"" height="300">
+ <div class="desc">Banff Festival</div>
+  </div>
+</div>
+
+</main>
+<main>
+
+		<h2>San Fransisco</h2>
+		<div class="responsive">
+  <div class=" img-zoom">
+      <img src="../sadakc2.github.io/pictures/sf1.JPG" alt="Forest" width="100%" height="300">
+    <div class="desc">Cable Car</div>
+  </div>
+</div>
+<div class="responsive">
+  <div class=" img-zoom"">
+      <img src="../sadakc2.github.io/pictures/f2.JPG" alt="Mountains" width="100%"" height="300">
+ <div class="desc">Banff Festival</div>
+  </div>
+</div>
+
+     <p></p>
+		 <p></p>
+		
+    <h2>NYC pt. 2</h2>
+    <div class="responsive">
+  <div class=" img-zoom"">
+      <img src="../sadakc2.github.io/pictures/carnegie1.JPG" alt="Mountains" width="100%"" height="300">
+ <div class="desc">Banff Festival</div>
+  </div>
+</div>
+    
+    <p></p>
+		<p></p>
+     
+		<h2Boston</h2>
+    
+    <div class="responsive">
+  <div class=" img-zoom"">
+      <img src="../sadakc2.github.io/pictures/boston1.JPG" alt="Mountains" width="100%"" height="300">
+ <div class="desc">Boston</div>
+  </div>
+</div>
+		
+		<p></p>
+		<p></p>
+    
+   <Banff & Calgary</h2> 
+    <div class="responsive">
+  <div class=" img-zoom"">
+      <img src="../sadakc2.github.io/pictures/banfficetruck.JPG" alt="Mountains" width="100%"" height="300">
+ <div class="desc">Columbia Ice Fields</div>
+  </div>
+</div>
+    <div class="responsive">
+  <div class=" img-zoom"">
+      <img src="../sadakc2.github.io/pictures/dsc03080.JPG" alt="Mountains" width="100%"" height="300">
+ <div class="desc">Calgary</div>
+  </div>
+</div>
+    
+		<p></p>
+		<p></p>
+    
+        </main>
+        <footer>
+ 
+		<nav>
+    		<ul>
+			<li><a href="mailto:sadakc2@winthrop.edu"><img src="../sadakc2.github.io/pictures/emaillogo.png" width="70" height="50"/></a></li>
+                	<li><a href="https://www.linkedin.com/in/christina-sadak-069463116/"><img src="../sadakc2.github.io/pictures/linkedinlogo.png" width="70" height="50"/></a></li>
+                	<li><a href="https://github.com/sadakc2"><img src="../sadakc2.github.io/pictures/githublogo.png" width="70" height="50"/></a></li>
+			<li><a href="https://www.instagram.com/christinasalvi/?hl=en"><img src="../sadakc2.github.io/pictures/instagramlogo.png" width="70" height="50"/></a></li>
+    		</ul>
+		</nav>
+		</footer>
+    </body>
+</html>
