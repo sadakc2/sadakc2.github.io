@@ -165,12 +165,12 @@ nav ul, footer ul {
 .img-zoom {
   height: 100%;
   width:100;
-  display: inline;
+  /*display: inline;*/
   position: relative;
   overflow: hidden;
 }
 .img-zoom img {
-  display: block;
+  /*display: block*/
   width: 100%;
   transition: 0.4s ease;
   transform-origin: 50% 50%; /* center zoom */
