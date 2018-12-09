@@ -17,7 +17,7 @@ body {
     
     /* Text styles */
     text-align: center;
-    color: #2F4F4F;
+    color: #00460E;
     
     /* Background styles */
     
@@ -31,7 +31,7 @@ body {
 .hero h1 {
     /* Text styles */
     font-size: 5em;
-    color: #2F4F4F;
+    color: #00460E;
     
     /* Margins */
     margin-top: 0;
@@ -54,11 +54,11 @@ body {
     font-size: 1.5em;
     
     /* Border styles */
-    border: 3px solid #2F4F4F;
+    border: 3px solid #00460E;
     border-radius: 20px;
     
     /* button background */
-    background-color: rgba(0, 88, 18, 0.5);
+    background-color: rgba(0, 70, 14, 0.5);
 }
 .hero2 {
     /* Sizing */
@@ -72,7 +72,7 @@ body {
     
     /* Text styles */
     text-align: center;
-    color: #2F4F4F;
+    color: #00460E;
     
     /* Background styles */
     background-image: url('../sadakc2.github.io/pictures/coldpic.JPG');
@@ -84,7 +84,7 @@ body {
 .hero2 h1 {
     /* Text styles */
     font-size: 5em;
-    color: #2F4F4F;
+    color: #00460E;
     
     /* Margins */
     margin-top: 0;
@@ -107,8 +107,11 @@ body {
     font-size: 1.5em;
     
     /* Border styles */
-    border: 3px solid #2F4F4F;
+    border: 3px solid #00460E;
     border-radius: 20px;
+    
+    /* button background */
+    background-color: rgba(0, 70, 14, 0.5)
 }
 .hero3 {
     /* Sizing */
@@ -122,7 +125,7 @@ body {
     
     /* Text styles */
     text-align: center;
-    color: #2F4F4F;
+    color: #00460E;
     
     /* Background styles */
     background-image: url('../sadakc2.github.io/pictures/banffroad.JPG');
@@ -134,7 +137,7 @@ body {
 .hero3 h1 {
     /* Text styles */
     font-size: 5em;
-    color: #2F4F4F;
+    color: #00460E;
     
     /* Margins */
     margin-top: 0;
@@ -157,8 +160,11 @@ body {
     font-size: 1.5em;
     
     /* Border styles */
-    border: 3px solid #2F4F4F;
+    border: 3px solid #00460E;
     border-radius: 20px;
+    
+    /* button background */
+    background-color: rgba(0, 70, 14, 0.5)
 }
 nav ul, footer ul {
     font-family:'Arial';
