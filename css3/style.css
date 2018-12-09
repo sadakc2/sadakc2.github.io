@@ -4,11 +4,7 @@ body {
     background-color: whitesmoke;
     width:100%;
 }
-.hero {
-    /* Sizing */
-    width: 100vw;
-    height: 100vh;
-    
+.hero {    
     /* Flexbox stuff */
     display: flex;
     justify-content: center;
@@ -20,10 +16,12 @@ body {
     
     /* Background styles */
     background-image: url('../sadakc2.github.io/pictures/b&wbenchSP.JPG');
-    background-size: cover;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
+    /* Sizing */
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+
 }
 .hero h1 {
     /* Text styles */
