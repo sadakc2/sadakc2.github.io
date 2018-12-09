@@ -56,6 +56,9 @@ body {
     /* Border styles */
     border: 3px solid #2F4F4F;
     border-radius: 20px;
+    
+    /* button background */
+    background-color: rgba(0, 102, 102, 0.8);
 }
 .hero2 {
     /* Sizing */
