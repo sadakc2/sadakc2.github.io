@@ -29,7 +29,7 @@ body {
 .hero h1 {
     /* Text styles */
     font-size: 5em;
-    color: #00460E;
+    color: white;
     
     /* Margins */
     margin-top: 0;
@@ -70,7 +70,7 @@ body {
     
     /* Text styles */
     text-align: center;
-    color: #00460E;
+    color: white;
     
     /* Background styles */
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../sadakc2.github.io/pictures/crisscross2SP.JPG');
@@ -82,7 +82,7 @@ body {
 .hero2 h1 {
     /* Text styles */
     font-size: 5em;
-    color: #00460E;
+    color: white;
     
     /* Margins */
     margin-top: 0;
@@ -123,7 +123,7 @@ body {
     
     /* Text styles */
     text-align: center;
-    color: #00460E;
+    color: white;
     
     /* Background styles */
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../sadakc2.github.io/pictures/banfflandscape1 (1).JPG');
@@ -135,7 +135,7 @@ body {
 .hero3 h1 {
     /* Text styles */
     font-size: 5em;
-    color: #00460E;
+    color: white;
     
     /* Margins */
     margin-top: 0;
@@ -176,7 +176,7 @@ body {
     
     /* Text styles */
     text-align: center;
-    color: #00460E;
+    color: white;
     
     /* Background styles */
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../sadakc2.github.io/pictures/b&wbenchSP.JPG');
@@ -188,7 +188,7 @@ body {
 .hero4 h1 {
     /* Text styles */
     font-size: 5em;
-    color: #00460E;
+    color: white;
     
     /* Margins */
     margin-top: 0;
@@ -225,71 +225,6 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     text-align: center;
-}
-.img-zoom {
-  height: 100%;
-  width:100;
-  /*display: inline;*/
-  position: relative;
-  overflow: hidden;
-}
-.img-zoom img {
-  /*display: block*/
-  width: 100%;
-  transition: 0.4s ease;
-  transform-origin: 50% 50%; /* center zoom */
-}
-.img-zoom img:hover {
-  transform: scale(1.21);
-}
-.inline {
-   display:inline-block;
-   margin-right:5px;
-}
-div.gallery {
-    border: 1px solid #ccc;
-}
-
-div.gallery:hover {
-    border: 1px solid #777;
-}
-
-div.gallery img {
-    width: 100%;
-    height: auto;
-}
-
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
-* {
-    box-sizing: border-box;
-}
-
-.responsive {
-    padding: 0 6px;
-    float: left;
-    width: 24.99999%;
-}
-
-@media only screen and (max-width: 700px) {
-    .responsive {
-        width: 49.99999%;
-        margin: 6px 0;
-    }
-}
-
-@media only screen and (max-width: 500px) {
-    .responsive {
-        width: 100%;
-    }
-}
-
-.clearfix:after {
-    content: "";
-    display: table;
-    clear: both;
 }
 nav ul li, footer ul li {
     display: inline;
