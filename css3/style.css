@@ -39,7 +39,7 @@ body {
 .hero .btn {
     /* Positioning and sizing */
     display: inline-block;
-    width: 200px;
+    width: 100px;
     
     /* Padding and margins */
     padding: 1em;
