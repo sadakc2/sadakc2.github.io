@@ -20,7 +20,7 @@ body {
     color: #00460E;
     
     /* Background styles */
-    background-image: url('../sadakc2.github.io/pictures/SPstanding.JPG');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../sadakc2.github.io/pictures/SPstanding.JPG');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -73,7 +73,7 @@ body {
     color: #00460E;
     
     /* Background styles */
-    background-image: url('../sadakc2.github.io/pictures/crisscross2SP.JPG');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../sadakc2.github.io/pictures/crisscross2SP.JPG');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -126,7 +126,7 @@ body {
     color: #00460E;
     
     /* Background styles */
-    background-image: url('../sadakc2.github.io/pictures/banfflandscape1 (1).JPG');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../sadakc2.github.io/pictures/banfflandscape1 (1).JPG');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -179,7 +179,7 @@ body {
     color: #00460E;
     
     /* Background styles */
-    background-image: url('../sadakc2.github.io/pictures/b&wbenchSP.JPG');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url('../sadakc2.github.io/pictures/b&wbenchSP.JPG');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
