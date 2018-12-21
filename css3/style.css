@@ -1,8 +1,8 @@
 body {
-    background-image: linear-gradient(to bottom right, #FCF1FF, #FFFFFF);
+    /*background-image: linear-gradient(to bottom right, #FCF1FF, #FFFFFF);*/
     margin: 0;
     font-family: 'Walkway Black';
-    /*background-color: black;*/
+    background-color: #DDDDDD;
     width:100%;
     height:100%;
 }
