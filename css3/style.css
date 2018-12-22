@@ -110,7 +110,7 @@ a:hover {
 .card-image {
   box-shadow: 1 1 #DDDDDD;
   transition: .3s;
-  background-color: white;
+  background-color: #DDDDDD;
   margin: auto 0;
   text-align: center;
 }
