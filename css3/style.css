@@ -103,7 +103,7 @@ a:hover {
 .card {
   transition: 0.2s;
   overflow: hidden;
-  width: 20em;
+  width: 100%;
   word-wrap: break-word;
 }
 
