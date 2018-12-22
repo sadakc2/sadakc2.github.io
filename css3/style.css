@@ -94,12 +94,14 @@ a:hover {
 .card-container ul {
   text-align: center;
   margin: 0;
+  font-family: 'Walkway Black';
 }
 
 .card-container li {
   list-style-type: none;
   padding: .05em .05em .05em .05em;
   text-align: center center;
+  font-family: 'Walkway Black';
 }
 
 .card {
@@ -107,6 +109,7 @@ a:hover {
   overflow: hidden;
   width: 100%;
   word-wrap: break-word;
+  font-family: 'Walkway Black';
 }
 
 .card-image {
@@ -118,7 +121,7 @@ a:hover {
 }
 
 .card-image:hover {
-  transform: scale(1.5, 1.5);
+  transform: scale(1.25, 1.25);
   transform-origin: 50% 50%;
   box-shadow: 2 2 whitesmoke;
 }
@@ -141,17 +144,21 @@ p {
     text-align: left;
     padding-right: 20px;
     padding-left: 20px;
+    font-family: 'Walkway Black';
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+    font-family: 'Walkway Black';
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
+    font-family: 'Walkway Black';
 }
 
 ul.posts li {
     list-style: none;
+    font-family: 'Walkway Black';
 }
