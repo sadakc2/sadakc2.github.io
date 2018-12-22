@@ -154,11 +154,12 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 5em;
     font-family: 'Walkway Black';
 }
 
 ul.posts li {
     list-style: none;
+    font-size: 5em;
     font-family: 'Walkway Black';
 }
