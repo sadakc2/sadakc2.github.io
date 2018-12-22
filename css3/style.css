@@ -108,7 +108,7 @@ a:hover {
 }
 
 .card-image {
-  box-shadow: 1 1 #000;
+  box-shadow: 1 1 #DDDDDD;
   transition: .3s;
   background-color: white;
   margin: auto 0;
@@ -118,7 +118,7 @@ a:hover {
 .card-image:hover {
   transform: scale(1.25, 1.25);
   transform-origin: 50% 50%;
-  box-shadow: 2 2 #0f0;
+  box-shadow: 2 2 #DDDDDD;
 }
 h1 {
     font-size: 3em;
