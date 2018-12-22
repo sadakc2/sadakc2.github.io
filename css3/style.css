@@ -88,7 +88,7 @@ a:hover {
   height: 100%;
   margin: 0;
   display: flex;
-  justify-content: center;
+  justify-content: left;
 }
 
 .card-container ul {
