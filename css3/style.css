@@ -83,20 +83,20 @@ a:hover {
 .card-container {
   background-color: #DDDDDD;
   width: 100%;
-  height: auto;
-  margin: auto 0;
+  height: 100%;
+  margin: 0;
   display: flex;
   justify-content: center;
 }
 
 .card-container ul {
   text-align: center;
-  margin: auto 0;
+  margin: 0;
 }
 
 .card-container li {
   list-style-type: none;
-  padding: .5em .5em .5em .5em;
+  padding: .05em .05em .05em .05em;
   text-align: left;
 }
 
@@ -111,12 +111,12 @@ a:hover {
   box-shadow: 1 1 #DDDDDD;
   transition: .3s;
   background-color: #DDDDDD;
-  margin: auto 0;
+  margin: 0;
   text-align: center;
 }
 
 .card-image:hover {
-  transform: scale(1.25, 1.25);
+  transform: scale(1.5, 1.5);
   transform-origin: 50% 50%;
   box-shadow: 2 2 #DDDDDD;
 }
