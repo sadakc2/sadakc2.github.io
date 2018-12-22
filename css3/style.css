@@ -118,7 +118,7 @@ a:hover {
 .card-image:hover {
   transform: scale(1.5, 1.5);
   transform-origin: 50% 50%;
-  box-shadow: 2 2 #DDDDDD;
+  box-shadow: 2 2 whitesmoke;
 }
 h1 {
     font-size: 3em;
