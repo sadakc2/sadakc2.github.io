@@ -88,7 +88,7 @@ a:hover {
   height: 100%;
   margin: 0;
   display: flex;
-  justify-content: left;
+  justify-content: center center;
 }
 
 .card-container ul {
@@ -99,7 +99,7 @@ a:hover {
 .card-container li {
   list-style-type: none;
   padding: .05em .05em .05em .05em;
-  text-align: left;
+  text-align: center center;
 }
 
 .card {
