@@ -81,7 +81,7 @@ a:hover {
     text-decoration: underline;
 }
 .card-container {
-  background-color: white;
+  background-color: #DDDDDD;
   width: 100%;
   height: auto;
   margin: auto 0;
@@ -103,7 +103,7 @@ a:hover {
 .card {
   transition: 0.2s;
   overflow: hidden;
-  width: 7em;
+  width: 20em;
   word-wrap: break-word;
 }
 
