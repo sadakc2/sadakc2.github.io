@@ -8,6 +8,13 @@ html,body {
     max-width: 100%;
     overflow-x: hidden;
 }
+
+img {
+    width: 200px; /* You can set the dimensions to whatever you want */
+    height: 200px;
+    object-fit: contain;
+}
+
 .hero {    
     /* Sizing */
     width: 100vw;
