@@ -134,6 +134,7 @@ a:hover {
   margin: 0;
   text-align: center;
   width:100%;
+  float:left;
   height:auto;
 
 }
