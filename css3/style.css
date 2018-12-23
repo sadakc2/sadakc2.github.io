@@ -9,16 +9,10 @@ html,body {
     overflow-x: hidden;
 }
 
-@media (max-width: 700px) {
-   /* PUT CSS HERE TO ALTER WEBSITE TO SINGLE COLUMN */
-}
-
 img {
     /*width: 200px; You can set the dimensions to whatever you want 
     height: 200px;*/
     object-fit: contain;
-  max-width: 100%;
-  height: auto;
 }
 
 .hero {    
@@ -96,10 +90,8 @@ a:hover {
     text-decoration: underline;
 }
 .card-container {
-   max-width:100%;
-    width: 100%;
   background-color: #DDDDDD;
-/*  width: 90%;*/
+ width: 90%;
   height: 100%;
   margin: 0;
   display: flex;
