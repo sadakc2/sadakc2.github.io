@@ -96,8 +96,10 @@ a:hover {
     text-decoration: underline;
 }
 .card-container {
+   max-width:100%;
+    width: 100%;
   background-color: #DDDDDD;
-  width: 90%;
+/*  width: 90%;*/
   height: 100%;
   margin: 0;
   display: flex;
