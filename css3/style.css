@@ -9,6 +9,10 @@ html,body {
     overflow-x: hidden;
 }
 
+@media (max-width: 700px) {
+   /* PUT CSS HERE TO ALTER WEBSITE TO SINGLE COLUMN */
+}
+
 img {
     /*width: 200px; You can set the dimensions to whatever you want 
     height: 200px;*/
