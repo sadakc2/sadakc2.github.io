@@ -131,6 +131,9 @@ a:hover {
   background-color: #DDDDDD;
   margin: 0;
   text-align: center;
+  width:100%;
+  height:auto;
+
 }
 
 .card-image:hover {
