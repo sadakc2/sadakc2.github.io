@@ -41,6 +41,29 @@ img {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+.travels_hero {    
+    /* Sizing */
+    width: 100vw;
+    height: 100vh;
+    
+    /* Flexbox stuff */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    /* Text styles */
+    text-align: center;
+    color: white;
+    
+    /* Background styles */
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url('../sadakc2.github.io/pictures/UNADJUSTEDNONRAW_thumb_1b5.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
 .hero h1 {
     /* Text styles */
     font-size: 5em;
