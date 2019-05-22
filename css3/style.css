@@ -15,6 +15,11 @@ img {
     object-fit: contain;
 }
 
+.center{
+    margin: 0 auto;
+    width: 100pxk
+}
+
 .hero {    
     /* Sizing */
     width: 100vw;
