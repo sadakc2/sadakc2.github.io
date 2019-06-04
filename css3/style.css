@@ -33,9 +33,8 @@ img {
     /* Text styles */
     text-align: center;
     color: white;
-    /*pictures/SPstanding.JPG*/
     /* Background styles */
-    background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url('../sadakc2.github.io/pictures/UNADJUSTEDNONRAW_thumb_76d.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.25),rgba(0, 0, 0, 0.25)), url('../sadakc2.github.io/pictures/pictures/SPstanding.JPG');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
