@@ -15,7 +15,7 @@ img {
     object-fit: contain;
 }
 
-img-thumbnail {
+img_thumbnail {
   border-radius: 50%;
 }
 
