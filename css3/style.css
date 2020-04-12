@@ -111,6 +111,9 @@ img {
     
     /* button background */
     background-color: whitesmoke;
+    
+    /* Button opacity */
+    opacity: 0.5;
 }
 nav ul, footer ul {
     font-family:'Arial';
